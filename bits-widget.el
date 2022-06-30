@@ -1,3 +1,4 @@
+;; -*- lexical-binding: t; -*-
 ;;; bits-widget.el --- Widget for setting bits -*- lexical-binding: t -*-
 
 ;; Author: Jesse Millwood
