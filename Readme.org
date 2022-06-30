@@ -1,0 +1,16 @@
+#+title: Readme - Bits Widget
+#+startup: showall indent
+#+options: toc:nil
+
+* Bits Widget
+
+This is a small widget that provides a widget interface in Emacs to fiddle with
+bits. It allows you to:
+- Define a number in Hex
+- Define a number by interactively setting bits
+- Push the number to the kill ring in a variety of formats including:
+  - Calc 16#NNNN format
+  - Elisp #xNNNN format
+  - Regular 0xNNNN
+  - Optionally add the "Byte" unit suffix to the pushed number
+    - This is useful with the =calc-prog= package
