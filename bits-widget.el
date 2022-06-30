@@ -55,6 +55,7 @@
 ;;; Code:
 
 (require 'widget)
+(require 'calc-prog)
 
 (defvar bw/hex-value)
 (defvar bw/endianness 'little)
