@@ -4,7 +4,7 @@
 ;; Author: Jesse Millwood
 ;; Maintainer: Jesse Millwood
 ;; Version: 0.1
-;; Package-Requires: (widget)
+;; Package-Requires: ((calc-prog))
 ;; Homepage: NA
 ;; Keywords: widget, bit manipulation
 
